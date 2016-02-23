@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Application02</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc_gecko">Imagen Gecko</string>
+    <string name="desc_croco">Imagen Croco</string>
+</resources>
